@@ -80,4 +80,4 @@ Atm.Color = Color3.fromRGB(161, 165, 162)
 Atm.Decay = Color3.fromRGB(161, 165, 162)
 Atm.Glare = 0.36
 Atm.Haze = 1.72
-end)
+
